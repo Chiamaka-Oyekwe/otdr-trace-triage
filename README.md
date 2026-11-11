@@ -8,7 +8,7 @@ This reads the whole batch at once and answers three questions:
 - why (bad splice, bend, dirty connector, break)
 - where to send the crew, as one trip in route order
 
-**Live demo:** https://tochoby.github.io/otdr-trace-triage/ (opens for anyone, no account needed)
+**Live demo:** https://chiamaka-oyekwe.github.io/otdr-trace-triage/ (opens for anyone, no account needed)
 
 The same page [on Claude](https://claude.ai/artifact/U5aaFKn1fBRoYLK9YrEKTQ) adds one AI feature for signed-in viewers: drafting the note to the contractor.
 

@@ -5,7 +5,7 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 ROOT = HERE.parent
-REPO = "https://github.com/tochoby/otdr-trace-triage"
+REPO = "https://github.com/Chiamaka-Oyekwe/otdr-trace-triage"
 
 sample = {p.name: base64.b64encode(p.read_bytes()).decode() for p in sorted((ROOT / "examples" / "span_HH101_HUBA").glob("*.sor"))}
 html = (HERE / "template.html").read_text()
